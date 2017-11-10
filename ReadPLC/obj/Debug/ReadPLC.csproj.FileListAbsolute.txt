@@ -1,0 +1,15 @@
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\bin\Debug\ReadPLC.exe.config
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\bin\Debug\ReadPLC.exe
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\bin\Debug\ReadPLC.pdb
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\obj\Debug\MainWindow.g.cs
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\obj\Debug\App.g.cs
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\obj\Debug\ReadPLC_MarkupCompile.cache
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\obj\Debug\ReadPLC_MarkupCompile.lref
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\obj\Debug\MainWindow.baml
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\obj\Debug\ReadPLC.g.resources
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\obj\Debug\ReadPLC.Properties.Resources.resources
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\obj\Debug\ReadPLC.csproj.GenerateResource.Cache
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\obj\Debug\ReadPLC.csproj.CoreCompileInputs.cache
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\obj\Debug\ReadPLC.exe
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\obj\Debug\ReadPLC.pdb
+C:\Users\martyn.willingham\Documents\Visual Studio 2017\Projects\ReadPLC\ReadPLC\obj\Debug\ReadPLC.csprojResolveAssemblyReference.cache
